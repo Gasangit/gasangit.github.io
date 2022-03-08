@@ -30,7 +30,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     height:fit-content;                               /* ajusta el largo del row al contenido */
-    min-height: 45em;
+    min-height: 23em;
 }
 .centrar_img{       
     display: block;
@@ -51,18 +51,16 @@ body{
 .text_botones{
     padding: 1em;
 }
-.text_img_inferiores{
-    color: white;
-}
+
 .marg_img_inferiores{
-    margin-top: 12em;
+    margin-top: 3em;
 
 }
 .caract_footer{
     min-height: 60em;
 }
 .separador{
-    margin-top: 3em;
+    margin-top: 6em;
 }
 .col_footer{
     min-height: 30em;
