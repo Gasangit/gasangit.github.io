@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url(../img/fondo_gasanweb_corto.jpg);
+    /* background-image: url(../img/fondo_gasanweb_corto.jpg);*/
     background-attachment: fixed;
     background-size: cover;
 }
@@ -52,8 +52,8 @@ body{
 .h2_index{
     margin-bottom: 1em;
 }
-.text_botones{
-    padding: 1em;
+.botones_index{
+    font-size: .9;
 }
 .img_inferiores{
     margin-top: 4em;
@@ -66,4 +66,10 @@ body{
 }
 .col_footer{
     min-height: 30em;
+}
+.cards_portfolio{
+    min-height: 15em;
+}
+.card_img{
+    min-height: 10em;
 }
